@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.helloWord.HelloWordApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-20T17:44:29.856Z" hostname="cs-569655117162-default" time="1.094">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.helloWord.HelloWordApplicationTests" time="1.094"/>
+  <system-out><![CDATA[17:44:25.282 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.helloWord.HelloWordApplicationTests]: HelloWordApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+17:44:25.571 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.helloWord.DemoApplication for test class com.example.helloWord.HelloWordApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.5.9)
+
+2026-01-20T17:44:26.843Z  INFO 17407 --- [helloWord] [    Test worker] c.e.helloWord.HelloWordApplicationTests  : Starting HelloWordApplicationTests using Java 17.0.17 with PID 17407 (started by osvaxdlol in /home/osvaxdlol/helloWorld)
+2026-01-20T17:44:26.847Z  INFO 17407 --- [helloWord] [    Test worker] c.e.helloWord.HelloWordApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2026-01-20T17:44:29.830Z  INFO 17407 --- [helloWord] [    Test worker] c.e.helloWord.HelloWordApplicationTests  : Started HelloWordApplicationTests in 3.776 seconds (process running for 6.626)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
